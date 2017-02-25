@@ -1,6 +1,6 @@
 ###Purpose
 
-This project is created to explain the two new keyords `let` and `const` that came with ES6 Syntax in [this video] (https://www.youtube.com/watch?v=s91m6G3ZW4E&t=20s)
+This project is created to explain the two new keyords `let` and `const` that came with ES6 Syntax, in [this video] (https://www.youtube.com/watch?v=s91m6G3ZW4E&t=20s)
 
 ###Build and Execute
 ```
